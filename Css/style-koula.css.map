@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,CAAC;EACC,KAAK,EAFA,GAAG",
+"sources": ["../sass/style-koula.scss"],
+"names": [],
+"file": "style-koula.css"
+}
